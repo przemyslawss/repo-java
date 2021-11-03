@@ -1,2 +1,2 @@
 # repo-java
-for java projects
+for java demo projects
